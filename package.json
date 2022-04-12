@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3#readme"
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "luxon": "^2.3.1"
+  }
 }
