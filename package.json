@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^9.16.6",
+    "node-fetch": "^3.2.3"
+  },
+  "name": "first-serverless-tarunbalaji3",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3.git"
+  },
+  "author": "Tarun Balaji Ravi <tarunbalaji3@gmail.com> (https://github.com/tarunbalaji3)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-tarunbalaji3#readme"
+}
